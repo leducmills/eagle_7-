@@ -1,0 +1,20 @@
+Partlist exported from /Users/ben/Documents/eagle/BareBonesArduino/bbarduino.sch at 10/7/14 9:24 AM
+
+Assembly variant: ''
+
+Part   Value            Device                    Package          Description              
+C1                      CAPPTH                    CAP-PTH-SMALL    Capacitor                
+C2                      CAPPTH                    CAP-PTH-SMALL    Capacitor                
+FRAME1 FRAME-LETTER     FRAME-LETTER              CREATIVE_COMMONS Schematic Frame          
+J1     POWER_JACKPTH    POWER_JACKPTH             POWER_JACK_PTH   Power Jack               
+J2     AVR_SPI_PRG_6PTH AVR_SPI_PRG_6PTH          2X3              AVR ISP 6 Pin            
+JP1                     M081X08                   1X08             Header 8                 
+JP2                     ARDUINO_SERIAL_PROGRAMPTH 1X06             FTDI connector footprints
+LED1                    LED5MM                    LED5MM           LEDs                     
+LED2                    LED5MM                    LED5MM           LEDs                     
+LED3                    LED5MM                    LED5MM           LEDs                     
+R1                      RESISTORPTH-1/4W          AXIAL-0.4        Resistor                 
+R2                      RESISTORPTH-1/4W          AXIAL-0.4        Resistor                 
+R3                      RESISTORPTH-1/4W          AXIAL-0.4        Resistor                 
+R4                      RESISTORPTH-1/4W          AXIAL-0.4        Resistor                 
+U1     ATMEGA328P_PDIP  ATMEGA328P_PDIP           DIL28-3          uC used in the Arduino   
